@@ -1,0 +1,119 @@
+{
+  "divisions": [
+    {
+      "name": "Dhaka",
+      "hospitals": [
+        {
+          "name": "Dhaka Medical College Hospital",
+          "phone": "+880 2 55165088",
+          "opening_time": "24/7"
+        },
+        {
+          "name": "Square Hospital",
+          "phone": "+880 2 8144400",
+          "opening_time": "9:00 AM - 9:00 PM"
+        },
+        {
+          "name": "Apollo Hospital",
+          "phone": "+880 2 55037242",
+          "opening_time": "24/7"
+        }
+      ]
+    },
+    {
+      "name": "Chittagong",
+      "hospitals": [
+        {
+          "name": "Chittagong Medical College Hospital",
+          "phone": "+880 31 619400",
+          "opening_time": "24/7"
+        },
+        {
+          "name": "Max Hospital",
+          "phone": "+880 31 656565",
+          "opening_time": "9:00 AM - 9:00 PM"
+        },
+        {
+          "name": "Parkview Hospital",
+          "phone": "+880 31 2866065",
+          "opening_time": "8:00 AM - 8:00 PM"
+        }
+      ]
+    },
+    {
+      "name": "Sylhet",
+      "hospitals": [
+        {
+          "name": "Sylhet MAG Osmani Medical College Hospital",
+          "phone": "+880 821 713667",
+          "opening_time": "24/7"
+        },
+        {
+          "name": "Ibn Sina Hospital",
+          "phone": "+880 821 727234",
+          "opening_time": "10:00 AM - 6:00 PM"
+        }
+      ]
+    },
+    {
+      "name": "Khulna",
+      "hospitals": [
+        {
+          "name": "Khulna Medical College Hospital",
+          "phone": "+880 41 761682",
+          "opening_time": "24/7"
+        },
+        {
+          "name": "Gazi Medical College Hospital",
+          "phone": "+880 41 731524",
+          "opening_time": "8:00 AM - 10:00 PM"
+        }
+      ]
+    },
+    {
+      "name": "Rajshahi",
+      "hospitals": [
+        {
+          "name": "Rajshahi Medical College Hospital",
+          "phone": "+880 721 772150",
+          "opening_time": "24/7"
+        },
+        {
+          "name": "Islami Bank Medical College Hospital",
+          "phone": "+880 721 761421",
+          "opening_time": "9:00 AM - 5:00 PM"
+        }
+      ]
+    },
+    {
+      "name": "Barisal",
+      "hospitals": [
+        {
+          "name": "Sher-E-Bangla Medical College Hospital",
+          "phone": "+880 431 63000",
+          "opening_time": "24/7"
+        }
+      ]
+    },
+    {
+      "name": "Rangpur",
+      "hospitals": [
+        {
+          "name": "Rangpur Medical College Hospital",
+          "phone": "+880 521 63302",
+          "opening_time": "24/7"
+        }
+      ]
+    },
+    {
+      "name": "Mymensingh",
+      "hospitals": [
+        {
+          "name": "Mymensingh Medical College Hospital",
+          "phone": "+880 91 66222",
+          "opening_time": "24/7"
+        }
+      ]
+    }
+  ]
+}
