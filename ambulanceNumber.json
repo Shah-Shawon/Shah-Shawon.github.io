@@ -1,0 +1,156 @@
+{
+  "ambulances": [
+    {
+      "district": "Dhaka",
+      "ambulance_number": "+880 1711 000001"
+    },
+    {
+      "district": "Chittagong",
+      "ambulance_number": "+880 1712 000002"
+    },
+    {
+      "district": "Sylhet",
+      "ambulance_number": "+880 1713 000003"
+    },
+    {
+      "district": "Rajshahi",
+      "ambulance_number": "+880 1714 000004"
+    },
+    {
+      "district": "Khulna",
+      "ambulance_number": "+880 1715 000005"
+    },
+    {
+      "district": "Barisal",
+      "ambulance_number": "+880 1716 000006"
+    },
+    {
+      "district": "Mymensingh",
+      "ambulance_number": "+880 1717 000007"
+    },
+    {
+      "district": "Rangpur",
+      "ambulance_number": "+880 1718 000008"
+    },
+    {
+      "district": "Comilla",
+      "ambulance_number": "+880 1719 000009"
+    },
+    {
+      "district": "Jessore",
+      "ambulance_number": "+880 1720 000010"
+    },
+    {
+      "district": "Narsingdi",
+      "ambulance_number": "+880 1721 000011"
+    },
+    {
+      "district": "Tangail",
+      "ambulance_number": "+880 1722 000012"
+    },
+    {
+      "district": "Noakhali",
+      "ambulance_number": "+880 1723 000013"
+    },
+    {
+      "district": "Madaripur",
+      "ambulance_number": "+880 1724 000014"
+    },
+    {
+      "district": "Patuakhali",
+      "ambulance_number": "+880 1725 000015"
+    },
+    {
+      "district": "Brahmanbaria",
+      "ambulance_number": "+880 1726 000016"
+    },
+    {
+      "district": "Feni",
+      "ambulance_number": "+880 1727 000017"
+    },
+    {
+      "district": "Kurigram",
+      "ambulance_number": "+880 1728 000018"
+    },
+    {
+      "district": "Jhenaidah",
+      "ambulance_number": "+880 1729 000019"
+    },
+    {
+      "district": "Shariatpur",
+      "ambulance_number": "+880 1730 000020"
+    },
+    {
+      "district": "Netrakona",
+      "ambulance_number": "+880 1731 000021"
+    },
+    {
+      "district": "Kushtia",
+      "ambulance_number": "+880 1732 000022"
+    },
+    {
+      "district": "Pabna",
+      "ambulance_number": "+880 1733 000023"
+    },
+    {
+      "district": "Manikganj",
+      "ambulance_number": "+880 1734 000024"
+    },
+    {
+      "district": "Gazipur",
+      "ambulance_number": "+880 1735 000025"
+    },
+    {
+      "district": "Moulvibazar",
+      "ambulance_number": "+880 1736 000026"
+    },
+    {
+      "district": "Bagerhat",
+      "ambulance_number": "+880 1737 000027"
+    },
+    {
+      "district": "Meherpur",
+      "ambulance_number": "+880 1738 000028"
+    },
+    {
+      "district": "Chuadanga",
+      "ambulance_number": "+880 1739 000029"
+    },
+    {
+      "district": "Jamuna",
+      "ambulance_number": "+880 1740 000030"
+    },
+    {
+      "district": "Thakurgaon",
+      "ambulance_number": "+880 1741 000031"
+    },
+    {
+      "district": "Dinajpur",
+      "ambulance_number": "+880 1742 000032"
+    },
+    {
+      "district": "Lalmonirhat",
+      "ambulance_number": "+880 1743 000033"
+    },
+    {
+      "district": "Panchagarh",
+      "ambulance_number": "+880 1744 000034"
+    },
+    {
+      "district": "Satkhira",
+      "ambulance_number": "+880 1745 000035"
+    },
+    {
+      "district": "Cox's Bazar",
+      "ambulance_number": "+880 1746 000036"
+    },
+    {
+      "district": "Moulvibazar",
+      "ambulance_number": "+880 1747 000037"
+    },
+    {
+      "district": "Chandpur",
+      "ambulance_number": "+880 1748 000038"
+    }
+  ]
+}
